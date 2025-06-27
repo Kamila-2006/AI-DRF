@@ -1,0 +1,7 @@
+Django==4.2.10
+djangorestframework==3.14.1
+python-dotenv==1.0.0
+requests==2.31.1
+django-cors-headers==4.3.1
+httpx==0.25.2
+gTTS==2.5.4
